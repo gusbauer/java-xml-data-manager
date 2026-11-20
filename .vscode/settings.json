@@ -1,0 +1,7 @@
+{
+  "java.server.launchMode": "Standard",
+  "java.project.referencedLibraries": [
+    "lib/xstream-1.4.21.jar",
+    "lib/kxml2-2.3.0.jar"
+  ]
+}
